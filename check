@@ -1,0 +1,3 @@
+make
+
+valgrind --leak-check=full ./lem_in < 1
